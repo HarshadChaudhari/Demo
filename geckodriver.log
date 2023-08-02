@@ -1,0 +1,31 @@
+1690933878138	geckodriver	INFO	Listening on 127.0.0.1:58204
+1690933881264	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58205" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofilekSrudj"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1690933881758	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1690933881861	Marionette	INFO	Listening on port 58214
+WebDriver BiDi listening on ws://127.0.0.1:58205
+Read port: 58214
+1690933882155	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58205/devtools/browser/d9d3c647-0734-496d-825d-41d3d1cfb71e
+JavaScript error: https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+1690934162746	Marionette	INFO	Stopped listening on port 58214
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function
+1690936098448	geckodriver	INFO	Listening on 127.0.0.1:59184
+1690936101526	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59185" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofilecw19Ef"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1690936102185	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1690936102281	Marionette	INFO	Listening on port 59192
+WebDriver BiDi listening on ws://127.0.0.1:59185
+Read port: 59192
+1690936102574	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59185/devtools/browser/0b99475e-45c1-4e60-850e-5d655b9549a2
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://automation.credence.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://automation.credence.in."
+JavaScript error: https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+1690936107962	Marionette	INFO	Stopped listening on port 59192
+Dynamically enable window occlusion 1
